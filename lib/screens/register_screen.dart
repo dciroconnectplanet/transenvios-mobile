@@ -27,7 +27,7 @@ class RegisterScreen extends StatelessWidget {
               InputField(
                   labelText: 'Correo',
                   suffixIcon: Icons.highlight_remove_outlined),
-              SizedBox(height: 20),
+              SizedBox(height: 21),
               InputField(
                   labelText: 'Contraseña',
                   suffixIcon: Icons.highlight_remove_outlined),
